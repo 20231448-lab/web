@@ -790,7 +790,7 @@ function SplashScreen({ onFinish }) {
       <StatusBar hidden />
 
       <Animated.Image
-        source={require('./assets/splash.png')}
+        source={require('./splash.png')}
         style={{
           width: '100%',
           height: '100%',
